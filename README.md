@@ -1,4 +1,5 @@
 
+
 # My-first-BP-network
 ---
 This project is my first try on BP-network，a exploration on the initialization of BP，and it is finished on 2017/4/29. 
@@ -22,3 +23,5 @@ If you have some question,contact me.
 ---
 
 如果你在意实验过程和结果，请直接翻到PDF的第九页
+（实验结果和Batch Normalization的论文有相似之处纯属雷同，我当时连深度学习是什么都不懂，更何况梯度弥散，BN层这种东西了，
+7月份读到BN层这篇论文的时候也蛮后悔的，如果自己坚持继续折腾自己的这个project，再好好学学概率论，能做出类似BN层的东西（虽然BN层是2015年的论文），起码比现在每天改网络结构强吧）
