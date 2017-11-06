@@ -1,3 +1,4 @@
+
 # My-first-BP-network
 ---
 This project is my first try on BP-network，a exploration on the initialization of BP，and it is finished on 2017/4/29. 
@@ -17,4 +18,7 @@ If you have some question,contact me.
   
 
 2. MNIST data set->.mat
-   
+   
+---
+
+如果你在意实验过程和结果，请直接翻到PDF的第九页
